@@ -9,7 +9,7 @@
     <DebugSymbols>true</DebugSymbols>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="ApprovalTests" Version="3.0.13" />
+    <PackageReference Include="ApprovalTests" Version="4.0.0" />
     <PackageReference Include="ApprovalUtilities" Version="3.0.13" />
     <PackageReference Include="FSharp.Core" Version="4.2.1" />
     <PackageReference Include="FodyCecil" Version="2.1.0" />
